@@ -64,6 +64,25 @@ Project ini merupakan sistem **pendaftaran siswa baru berbasis web** yang dikemb
 
 ---
 
+## 👥 Kontribusi & Pengembangan
+Proyek ini awalnya dikembangkan sebagai bagian dari penelitian tugas akhir saya 
+dengan integrasi pembayaran menggunakan **Xendit API**.
+
+Setelah tahap penelitian selesai, sistem ini dikembangkan lebih lanjut bersama rekan saya 
+untuk diterapkan di lingkungan **Pondok Pesantren**, 
+dengan penyesuaian metode pembayaran menggunakan **Edupay API** agar sesuai kebutuhan lembaga.
+
+**Peran saya:**  
+- Pengembangan inti sistem Laravel (struktur, alur pendaftaran, upload berkas)  
+- Integrasi awal Xendit API untuk pembayaran  
+- Implementasi UI dengan Blade & TailwindCSS  
+
+**Peran rekan tim:**  
+- Integrasi Edupay API  
+- Penyesuaian backend untuk sistem pondok  
+
+---
+
 ## Lisensi
 Project ini bersifat open source untuk keperluan pembelajaran dan pengembangan pribadi.
 
