@@ -4,7 +4,7 @@ Project ini merupakan sistem **pendaftaran siswa baru berbasis web** yang dikemb
 
 ---
 
-## Teknologu yang Digunakan
+## Teknologi yang Digunakan
 
 ### Backend
 - **Laravel** (Blade & Filament Admin Panel)
